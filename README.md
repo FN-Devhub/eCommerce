@@ -1,5 +1,8 @@
 # eCommerce
 
+[![CI](https://github.com/FN-Devhub/eCommerce/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FN-Devhub/eCommerce/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/FN-Devhub/eCommerce?include_prereleases&label=release)](https://github.com/FN-Devhub/eCommerce/releases)
+
+
 > متجر إلكتروني تعليمي متعدد اللغات والعملات يركّز على السرعة وتجربة البحث.  
 Educational multilingual & multi-currency e-commerce project focused on performance, search, and clean architecture.
 
